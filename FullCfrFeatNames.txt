@@ -1,0 +1,17 @@
+Edge Distance
+Pb Edge Strength
+Pb Edge Strength 2
+Photo Constancy
+Sparse Set Texture Difference
+Sparse Set Texture Difference (Mahalanobis)
+Temporal Gradient
+Angle Variance
+Length Variance
+Colliding Speed
+Reverse Flow Constancy
+Reverse Flow Angle Difference
+Flow Confidence
+Flow Confidence 2
+Flow Angle Variance
+Flow Length Variance
+SP Flow Boundary
